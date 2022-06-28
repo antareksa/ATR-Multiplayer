@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb62b3c4-acd3-4726-8f1d-e34362a42761" name="Changes" comment="" />
+    <list default="true" id="bb62b3c4-acd3-4726-8f1d-e34362a42761" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ATR-Multiplayer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ATR-Multiplayer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonVoice/Demos/DemoVoicePun/DemoVoicePun-Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonVoice/Demos/DemoVoicePun/DemoVoicePun-Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonVoice/Demos/DemoVoicePun/Resources/ZomBunny.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonVoice/Demos/DemoVoicePun/Resources/ZomBunny.prefab" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +83,7 @@
       <workItem from="1655015670776" duration="26000" />
       <workItem from="1655015789133" duration="8916000" />
       <workItem from="1655644394792" duration="811000" />
+      <workItem from="1655649405347" duration="1470000" />
     </task>
     <servers />
   </component>
